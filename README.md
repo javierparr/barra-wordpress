@@ -1,8 +1,8 @@
 # barra-wordpress
 <p>Oculta la barra de administrado a todos, menos al administrador.</p>
-Ir a wp-admin.
-Iniciar sesión.
-Apariencia.
-Editor de archivos de tema.
-Funciones del tema.
-Añadir el código.
+<p>Ir a wp-admin.</p>
+<p>Iniciar sesión.</p>
+<p>Apariencia.</p>
+<p>Editor de archivos de tema.</p>
+<p>Funciones del tema.</p>
+<p>Añadir el código.</p>
