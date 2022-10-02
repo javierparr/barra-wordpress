@@ -1,5 +1,5 @@
 # barra-wordpress
-Oculta la barra de administrado a todos, menos al administrador.
+<p>Oculta la barra de administrado a todos, menos al administrador.</p>
 Ir a wp-admin.
 Iniciar sesión.
 Apariencia.
